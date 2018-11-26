@@ -1,5 +1,5 @@
 
-class HelloWorld 
+class Ramc 
 { 
 	
 	public static void main(String args[]) 
